@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgb(76, 203, 226);
+    background-color: cadetblue;
     font: normal 1em arial;
 }
 
@@ -15,7 +15,7 @@ section{
     max-width: 500px;
     padding: 15px;
     border-radius: 10px;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
     margin: auto;    
 }
 
